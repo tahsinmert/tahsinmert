@@ -120,11 +120,14 @@
 ## 🎨 **Projelerim**
 
 <div align="center">
-  <h3>🌟 <b>Öne Çıkan Projeler</b></h3>
+  <h3>🌟 <b>Netlify'da Deploy Edilen Projelerim</b></h3>
 </div>
 
 ### 🤖 **AI Agent Vision** - 3D Avatar ile Görüntülü AI Sistemi
 <div align="center">
+  <a href="https://ai-agent-vision.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-AI%20Agent%20Vision-3B82F6?style=for-the-badge&logo=netlify&logoColor=white" alt="AI Agent Vision Live Demo" />
+  </a>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahsinmert&repo=ai-agent-vision&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="AI Agent Vision" />
 </div>
 
@@ -142,6 +145,9 @@
 
 ### 🎨 **TasoCreateAI** - El Hareketi ile Çizim Uygulaması
 <div align="center">
+  <a href="https://tasocreate-ai.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-TasoCreateAI-3B82F6?style=for-the-badge&logo=netlify&logoColor=white" alt="TasoCreateAI Live Demo" />
+  </a>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahsinmert&repo=tasocreate-ai&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="TasoCreateAI" />
 </div>
 
@@ -158,6 +164,9 @@
 
 ### 🍎 **AI Elma Çeşidi Tanıma** - Computer Vision Uygulaması
 <div align="center">
+  <a href="https://ai-apple-classifier.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-AI%20Apple%20Classifier-3B82F6?style=for-the-badge&logo=netlify&logoColor=white" alt="AI Apple Classifier Live Demo" />
+  </a>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahsinmert&repo=ai-apple-classifier&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="AI Apple Classifier" />
 </div>
 
@@ -174,6 +183,9 @@
 
 ### 🌤️ **WeatherTahsin** - Gelişmiş Hava Durumu Uygulaması
 <div align="center">
+  <a href="https://weather-tahsin.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-WeatherTahsin-3B82F6?style=for-the-badge&logo=netlify&logoColor=white" alt="WeatherTahsin Live Demo" />
+  </a>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahsinmert&repo=weather-tahsin&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="WeatherTahsin" />
 </div>
 
@@ -183,6 +195,82 @@
 - 🍎 **Tarımsal Öneriler**: Elma yetiştiriciliği için özel öneriler
 - 📊 **Gelişmiş Dashboard**: Haftalık genel bakış ve analizler
 - 🎯 **PWA Desteği**: Progressive Web App özellikleri
+
+**Teknolojiler:** HTML5, CSS3, JavaScript, OpenWeatherMap API, Tailwind CSS
+
+---
+
+### 🎯 **AI Agent WebApp** - Modern AI Web Uygulaması
+<div align="center">
+  <a href="https://ai-agent-webapp.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-AI%20Agent%20WebApp-3B82F6?style=for-the-badge&logo=netlify&logoColor=white" alt="AI Agent WebApp Live Demo" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahsinmert&repo=ai-agent-webapp&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="AI Agent WebApp" />
+</div>
+
+**Özellikler:**
+- 🎨 **Modern UI/UX**: Tailwind CSS ile responsive tasarım
+- 🤖 **AI Entegrasyonu**: Yapay zeka destekli özellikler
+- 📱 **Mobile First**: Mobil öncelikli tasarım
+- ⚡ **Hızlı Performans**: Optimize edilmiş yükleme süreleri
+- 🔒 **Güvenli**: Modern güvenlik standartları
+
+**Teknolojiler:** React.js, Vite, Tailwind CSS, JavaScript, Netlify
+
+---
+
+### 🎨 **AI Agent Vite** - Vite ile Geliştirilmiş AI Uygulaması
+<div align="center">
+  <a href="https://ai-agent-vite.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-AI%20Agent%20Vite-3B82F6?style=for-the-badge&logo=netlify&logoColor=white" alt="AI Agent Vite Live Demo" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahsinmert&repo=ai-agent-vite&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="AI Agent Vite" />
+</div>
+
+**Özellikler:**
+- ⚡ **Vite Build**: Hızlı geliştirme ve build süreleri
+- 🎭 **3D Avatar**: Three.js ile interaktif 3D karakter
+- 🎤 **Sesli Giriş**: Web Speech API entegrasyonu
+- 😊 **Duygu Tanıma**: MediaPipe ile yüz ifadesi analizi
+- 🌙 **Tema Desteği**: Karanlık/aydınlık mod
+
+**Teknolojiler:** React.js, Vite, Three.js, MediaPipe, Web Speech API, Tailwind CSS
+
+---
+
+### 🍎 **AI Apple** - Python Flask AI Uygulaması
+<div align="center">
+  <a href="https://ai-apple-python.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-AI%20Apple%20Python-3B82F6?style=for-the-badge&logo=netlify&logoColor=white" alt="AI Apple Python Live Demo" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahsinmert&repo=ai-apple&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="AI Apple Python" />
+</div>
+
+**Özellikler:**
+- 🐍 **Python Backend**: Flask ile güçlü backend
+- 🍎 **Elma Tanıma**: Computer vision ile elma çeşidi tanıma
+- 📷 **Kamera Entegrasyonu**: Gerçek zamanlı görüntü analizi
+- 🎨 **Modern UI**: Tailwind CSS ile modern arayüz
+- 📊 **Analiz Sonuçları**: Detaylı analiz raporları
+
+**Teknolojiler:** Python, Flask, OpenCV, NumPy, PIL, Tailwind CSS
+
+---
+
+### 🌤️ **Weather Tahsin GitHub** - Hava Durumu Uygulaması
+<div align="center">
+  <a href="https://weather-tahsin-github.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-Weather%20Tahsin%20GitHub-3B82F6?style=for-the-badge&logo=netlify&logoColor=white" alt="Weather Tahsin GitHub Live Demo" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahsinmert&repo=weather-tahsin-github&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="Weather Tahsin GitHub" />
+</div>
+
+**Özellikler:**
+- 🌡️ **Hava Durumu API**: OpenWeatherMap entegrasyonu
+- 📱 **Responsive Design**: Tüm cihazlarda uyumlu
+- 🎯 **Modern UI**: Tailwind CSS ile modern tasarım
+- ⚡ **Hızlı Yükleme**: Optimize edilmiş performans
+- 🌍 **Çoklu Dil**: Türkçe ve İngilizce desteği
 
 **Teknolojiler:** HTML5, CSS3, JavaScript, OpenWeatherMap API, Tailwind CSS
 
