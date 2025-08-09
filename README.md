@@ -123,6 +123,186 @@
   <h3>🌟 <b>Netlify'da Deploy Edilen Projelerim</b></h3>
 </div>
 
+### 📄 **Tahsin Mert Mutlu CV** - Kişisel CV ve Portfolio
+<div align="center">
+  <a href="https://tahsinmertmutlucv.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-Tahsin%20Mert%20Mutlu%20CV-3B82F6?style=for-the-badge&logo=netlify&logoColor=white" alt="Tahsin Mert Mutlu CV Live Demo" />
+  </a>
+</div>
+
+**Özellikler:**
+- 📄 **Profesyonel CV**: Modern ve etkileyici CV tasarımı
+- 🎨 **Portfolio**: Projelerin ve yeteneklerin sergilendiği alan
+- 📱 **Responsive Design**: Tüm cihazlarda uyumlu tasarım
+- ⚡ **Hızlı Yükleme**: Optimize edilmiş performans
+- 🎯 **Modern UI**: Tailwind CSS ile modern arayüz
+
+**Teknolojiler:** HTML5, CSS3, JavaScript, Tailwind CSS, Netlify
+
+---
+
+### 💻 **TasoCode** - Kod Editörü ve IDE
+<div align="center">
+  <a href="https://tasocode.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-TasoCode-3B82F6?style=for-the-badge&logo=netlify&logoColor=white" alt="TasoCode Live Demo" />
+  </a>
+</div>
+
+**Özellikler:**
+- 💻 **Kod Editörü**: Syntax highlighting ile gelişmiş kod editörü
+- 🎨 **Tema Desteği**: Karanlık/aydınlık tema seçenekleri
+- 📁 **Dosya Yönetimi**: Dosya oluşturma ve düzenleme
+- 🔍 **Arama ve Değiştirme**: Gelişmiş arama özellikleri
+- 💾 **Otomatik Kaydetme**: Kodlarınızı otomatik kaydeder
+
+**Teknolojiler:** React.js, Monaco Editor, Tailwind CSS, JavaScript
+
+---
+
+### 🌤️ **WeatherTahsin** - Hava Durumu Uygulaması
+<div align="center">
+  <a href="https://weathertahsin.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-WeatherTahsin-3B82F6?style=for-the-badge&logo=netlify&logoColor=white" alt="WeatherTahsin Live Demo" />
+  </a>
+</div>
+
+**Özellikler:**
+- 🌡️ **Gerçek Zamanlı Hava Durumu**: Anlık hava durumu bilgileri
+- 📍 **Konum Bazlı**: GPS ile otomatik konum tespiti
+- 🕐 **Saatlik Tahmin**: Detaylı saatlik hava durumu
+- 📊 **Grafikler**: Hava durumu grafikleri ve analizler
+- 🌍 **Çoklu Şehir**: Birden fazla şehir takibi
+
+**Teknolojiler:** React.js, OpenWeatherMap API, Chart.js, Tailwind CSS
+
+---
+
+### 📝 **TasoNotes** - Not Alma Uygulaması
+<div align="center">
+  <a href="https://tasonotes.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-TasoNotes-3B82F6?style=for-the-badge&logo=netlify&logoColor=white" alt="TasoNotes Live Demo" />
+  </a>
+</div>
+
+**Özellikler:**
+- 📝 **Not Alma**: Hızlı ve kolay not alma
+- 🏷️ **Kategoriler**: Notları kategorilere ayırma
+- 🔍 **Arama**: Gelişmiş arama özellikleri
+- 💾 **Otomatik Kaydetme**: Notlarınızı otomatik kaydeder
+- 📱 **Mobil Uyumlu**: Tüm cihazlarda çalışır
+
+**Teknolojiler:** React.js, LocalStorage, Tailwind CSS, JavaScript
+
+---
+
+### 📞 **TasoPhone** - Telefon Uygulaması
+<div align="center">
+  <a href="https://tasophone.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-TasoPhone-3B82F6?style=for-the-badge&logo=netlify&logoColor=white" alt="TasoPhone Live Demo" />
+  </a>
+</div>
+
+**Özellikler:**
+- 📞 **Telefon Arayüzü**: Gerçekçi telefon arayüzü
+- 🎨 **Tema Desteği**: Farklı telefon temaları
+- 📱 **Uygulama Simülasyonu**: Telefon uygulamaları simülasyonu
+- 🎯 **İnteraktif**: Tıklanabilir butonlar ve özellikler
+- 🌙 **Karanlık Mod**: Karanlık tema desteği
+
+**Teknolojiler:** React.js, CSS3, JavaScript, Tailwind CSS
+
+---
+
+### 🛒 **MRT VIP Market** - E-ticaret Uygulaması
+<div align="center">
+  <a href="https://mrtvipmarket.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-MRT%20VIP%20Market-3B82F6?style=for-the-badge&logo=netlify&logoColor=white" alt="MRT VIP Market Live Demo" />
+  </a>
+</div>
+
+**Özellikler:**
+- 🛒 **E-ticaret**: Tam özellikli e-ticaret platformu
+- 🎯 **Ürün Kataloğu**: Kategorilere ayrılmış ürünler
+- 🛍️ **Alışveriş Sepeti**: Gelişmiş sepet yönetimi
+- 💳 **Ödeme Sistemi**: Güvenli ödeme entegrasyonu
+- 📊 **Admin Panel**: Yönetim paneli
+
+**Teknolojiler:** React.js, Node.js, MongoDB, Stripe API, Tailwind CSS
+
+---
+
+### 💬 **TahsinChat** - Sohbet Uygulaması
+<div align="center">
+  <a href="https://tahsinchat.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-TahsinChat-3B82F6?style=for-the-badge&logo=netlify&logoColor=white" alt="TahsinChat Live Demo" />
+  </a>
+</div>
+
+**Özellikler:**
+- 💬 **Gerçek Zamanlı Sohbet**: Anlık mesajlaşma
+- 👥 **Grup Sohbetleri**: Çoklu kullanıcı sohbetleri
+- 🎨 **Tema Desteği**: Karanlık/aydınlık tema
+- 📱 **Mobil Uyumlu**: Responsive tasarım
+- 🔔 **Bildirimler**: Mesaj bildirimleri
+
+**Teknolojiler:** React.js, Socket.io, Node.js, MongoDB, Tailwind CSS
+
+---
+
+### 🏪 **Kayısdağı Store** - Online Mağaza
+<div align="center">
+  <a href="https://kayisdagistore.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-Kayısdağı%20Store-3B82F6?style=for-the-badge&logo=netlify&logoColor=white" alt="Kayısdağı Store Live Demo" />
+  </a>
+</div>
+
+**Özellikler:**
+- 🏪 **Online Mağaza**: Tam özellikli e-ticaret sitesi
+- 🎯 **Ürün Yönetimi**: Ürün ekleme ve düzenleme
+- 🛒 **Alışveriş Sepeti**: Gelişmiş sepet sistemi
+- 💳 **Ödeme**: Güvenli ödeme entegrasyonu
+- 📊 **Analytics**: Satış analizleri
+
+**Teknolojiler:** React.js, Node.js, PostgreSQL, Stripe API, Tailwind CSS
+
+---
+
+### 🏠 **Tahsin'in Silası** - Kişisel Blog
+<div align="center">
+  <a href="https://tahsininsilasi.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-Tahsin'in%20Silası-3B82F6?style=for-the-badge&logo=netlify&logoColor=white" alt="Tahsin'in Silası Live Demo" />
+  </a>
+</div>
+
+**Özellikler:**
+- 📝 **Blog Sistemi**: Kişisel blog ve yazılar
+- 🎨 **Modern Tasarım**: Temiz ve modern arayüz
+- 🔍 **Arama**: Gelişmiş arama özellikleri
+- 📱 **Responsive**: Mobil uyumlu tasarım
+- 🌙 **Tema Desteği**: Karanlık/aydınlık mod
+
+**Teknolojiler:** React.js, Markdown, Tailwind CSS, JavaScript
+
+---
+
+### 🌤️ **TasoWeather** - Hava Durumu Uygulaması
+<div align="center">
+  <a href="https://tasoweather.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-TasoWeather-3B82F6?style=for-the-badge&logo=netlify&logoColor=white" alt="TasoWeather Live Demo" />
+  </a>
+</div>
+
+**Özellikler:**
+- 🌡️ **Hava Durumu**: Gerçek zamanlı hava durumu
+- 📍 **Konum Tespiti**: GPS ile otomatik konum
+- 🕐 **Tahminler**: 5 günlük hava durumu tahmini
+- 📊 **Grafikler**: Hava durumu grafikleri
+- 🌍 **Çoklu Şehir**: Birden fazla şehir takibi
+
+**Teknolojiler:** React.js, OpenWeatherMap API, Chart.js, Tailwind CSS
+
+---
+
 ### 🤖 **AI Agent Vision** - 3D Avatar ile Görüntülü AI Sistemi
 <div align="center">
   <a href="https://ai-agent-vision.netlify.app" target="_blank">
