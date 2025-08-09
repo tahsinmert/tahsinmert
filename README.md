@@ -10,11 +10,7 @@
 
 ---
 
-## 🏆 **GitHub İstatistiklerim - TOP LEVEL**
-
-<div align="center">
-  <h2>🌟 <b>GitHub Başarılarım</b></h2>
-</div>
+## 🏆 **GitHub İstatistiklerim**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tahsinmert&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=Tahsin%20Mert%20Mutlu%20-%20GitHub%20Stats" alt="GitHub Stats" />
@@ -25,29 +21,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinmert&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8&custom_title=En%20Çok%20Kullanılan%20Diller" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahsinmert&theme=radical&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=3B82F6&custom_title=GitHub%20Aktivite%20Grafiği" alt="GitHub Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tahsinmert&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahsinmert&theme=radical" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tahsinmert&theme=radical" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tahsinmert&theme=radical" alt="Repos Per Language" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tahsinmert&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tahsinmert&theme=radical" alt="Productive Time" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinmert&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=6&custom_title=En%20Çok%20Kullanılan%20Diller" alt="Top Languages" />
 </div>
 
 ---
